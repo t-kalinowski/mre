@@ -1,0 +1,9 @@
+
+# wish: Anytime a "guide" page is shown,
+# the sidebar specified here is shown.
+website:
+  sidebar:
+    contents:
+      - index.qmd
+      - guide-a.qmd
+      - guide-b.qmd

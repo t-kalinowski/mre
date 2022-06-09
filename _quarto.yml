@@ -1,0 +1,14 @@
+project:
+  type: website
+
+
+website:
+  title: "mysite"
+  navbar:
+    left:
+      - {text: Install      ,href: install/}
+      - {text: Tutorials    ,href: tutorials/}
+      - {text: Guides       ,href: guides/}
+      - {text: Examples     ,href: examples/}
+      - {text: Reference    ,href: reference/}
+  # unique sidebar is shown in each subdirector

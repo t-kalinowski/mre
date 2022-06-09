@@ -1,0 +1,25 @@
+website:
+  sidebar: auto
+
+# wish: autogenerate sidebar based on directory structure,
+# something resembling:
+# website:
+#   sidebar:
+#     - title: "Reference"
+#       contents:
+#         - index.qmd
+#         - section: "pkg-a"
+#           contents:
+#             - pkg-a/foo.qmd
+#             - pkg-a/bar.qmd
+#             - pkg-a/baz.qmd
+#         - section: "pkg-b"
+#           contents:
+#             - pkg-b/fun1.qmd
+#             - pkg-b/fun2.qmd
+#             - pkg-b/fun3.qmd
+#         - section: "pkg-c"
+#           contents:
+#             - pkg-c/fun1.qmd
+#             - pkg-c/fun2.qmd
+#             - pkg-c/fun3.qmd
